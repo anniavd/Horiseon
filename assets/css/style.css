@@ -42,6 +42,18 @@ header nav ul li {
 }                        /*header navigation style end*/
 /* Section header end*/
 
+ /* footer style star*/
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+ /* footer style end*/
 p {
     font-size: 16px;
 }
@@ -129,8 +141,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-.search-engine-optimization {
+/* Hero style star*/
+/*section  search-engine-optimization  style star*/
+.search-engine-optimization {    /**/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -157,7 +170,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.search-engine-optimization img { /* una misma clase q trabaje img  (add class <img>)*/
     max-height: 200px;
 }
 
@@ -167,9 +180,9 @@ p {
 
 .social-media-marketing img {
     max-height: 200px;
-}
+}                              /* una misma clase q trabaje img  (add class <img>)*/
 
-.search-engine-optimization h2 {
+.search-engine-optimization h2 {  /* trabajar solo con h2..se puede agrupar un nombre doble a la clase llamar 2 veces*/
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -181,16 +194,7 @@ p {
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 36px;         /* trabajar solo con h2..se puede agrupar un nombre doble a la clase llamar 2 veces*/
 }
+/* Hero style star*/
 
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
-}
