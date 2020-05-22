@@ -49,14 +49,13 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
 footer h2 {
     font-size: 20px;
 }
  /* footer style end*/
-p {
-    font-size: 16px;
-}
+
+ /* Hero style star*/
+/*section  search-engine-optimization  style star*/
 
 .hero {
     height: 800px;
@@ -66,6 +65,73 @@ p {
     background-size: cover;
     background-position: center;
 }
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.search-engine-optimization {    
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.search-engine-optimization img { /* una misma clase q trabaje img  (add class <img>)*/
+    max-height: 200px;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}                              /* una misma clase q trabaje img  (add class <img>)*/
+
+.search-engine-optimization h2 {  /* trabajar solo con h2..se puede agrupar un nombre doble a la clase llamar 2 veces*/
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;         /* trabajar solo con h2..se puede agrupar un nombre doble a la clase llamar 2 veces*/
+}
+/* Hero style star*/
+
+
+p {
+    font-size: 16px;
+}
+
+
 
 .float-left {
     float: left;
@@ -77,11 +143,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+/* section aside */
 
 .benefits {
     margin-right: 20px;
@@ -141,60 +203,3 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* Hero style star*/
-/*section  search-engine-optimization  style star*/
-.search-engine-optimization {    /**/
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img { /* una misma clase q trabaje img  (add class <img>)*/
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}                              /* una misma clase q trabaje img  (add class <img>)*/
-
-.search-engine-optimization h2 {  /* trabajar solo con h2..se puede agrupar un nombre doble a la clase llamar 2 veces*/
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;         /* trabajar solo con h2..se puede agrupar un nombre doble a la clase llamar 2 veces*/
-}
-/* Hero style star*/
-
