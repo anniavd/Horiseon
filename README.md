@@ -4,9 +4,9 @@
 
 Horiseon will place your business in a **high ranking**, where you will make a profit in a short time.
 
- picture general
 
- ![describe image](/assets/images/brand-awareness.png)
+ ![Homepage](/assets/images/website-homepage.png)
+ Visit the site! [Horiseon](https://anniavd.github.io/Horiseon/)
 
 ____________________________
 #### The web site has  3 shortcuts
@@ -17,7 +17,7 @@ ____________________________
 
 > 3. Social Media Marketing.
 
- ![describe image](/assets/images/tux.png)
+ ![ image with the link of the site navigation](/assets/images/website-navegation.jpg)
 
 To access:[Search Engine Optimization](https://anniavd.github.io/Horiseon/#search-engine-optimization)
 
@@ -32,7 +32,7 @@ To access:[Social Media Marketing](https://anniavd.github.io/Horiseon/#social-me
 >
 
 foto 2
- ![describe image](/assets/images/tux.png)
+ ![3 photos with their respective information of each link of the site navigation](/assets/images/website-navegation-quick.jpg)
 
 
 For more information visit the site by clicking here:[Horiseon](https://anniavd.github.io/Horiseon/)
