@@ -18,7 +18,7 @@ ____________________________
 
 > 3. Social Media Marketing.
 
- ![ image with the link of the site navigation](/assets/images/website-navegation.jpg)
+ ![ Image with the link of the site navigation](/assets/images/website-navegation.jpg)
  ______________________________________________________________
 #### To access the navigation information respectively, select one of the following links.
 
@@ -31,11 +31,13 @@ To access:[Social Media Marketing](https://anniavd.github.io/Horiseon/#social-me
 
 The selected lik information will be shown as it appears in the image below.
 
-![3 photos with their respective information of each link of the site navigation](/assets/images/website-navegation-quick.jpg)
+![3 images with their respective information of each link of the site navigation](/assets/images/website-navegation-quick.png)
 __________________________________________________________________________________
 ### The site shows other information such as:
 > - Lead Generation.
 > - Brand Awareness.
 > - Cost Management.
 >
-For more information visit the site clicking here:[Horiseon](https://anniavd.github.io/Horiseon/)
+![3 image symbols with their corresponding information.](/assets/images/website-other-infomation.jpg)
+
+For more information **visit** the site clicking here:[Horiseon](https://anniavd.github.io/Horiseon/)
