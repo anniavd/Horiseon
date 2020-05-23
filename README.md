@@ -6,7 +6,7 @@ Horiseon will place your business in a **high ranking**, where you will make a p
 
  picture general
 
- ![describe image](/assets/images/tux.png)
+ ![describe image](/assets/images/brand-awareness.png)
 
 ____________________________
 #### The web site has  3 shortcuts
